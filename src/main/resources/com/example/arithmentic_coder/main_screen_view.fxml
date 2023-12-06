@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.arithmentic_coder.Coder_Controller">
+   <children>
+       <Button layoutX="262.0" layoutY="404.0" onAction="#onOpenFileClicked" prefHeight="32.0" prefWidth="74.0" text="Open File" />
+   </children>
+</AnchorPane>
